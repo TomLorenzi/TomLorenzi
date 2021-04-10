@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TomLorenzi
-- 👀 I'm a FullStack developper and also a student
+- 👀 I'm a junior FullStack developper
 - 📫 You can contact me at this adress : dlorenzi.thomas@gmail.com
 
