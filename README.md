@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TomLorenzi
-- 👀 I'm a junior FullStack developper
+- 👀 I'm a FullStack developper
 - 📫 You can contact me on Discord : Nira#7756
