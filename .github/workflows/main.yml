@@ -26,7 +26,7 @@ jobs:
           # Options
           user: TomLorenzi
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, community, repositories, metadata
           base_indepth: yes
           config_timezone: Europe/Paris
           plugin_activity: yes
